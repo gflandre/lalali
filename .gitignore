@@ -1,0 +1,9 @@
+certificate_lalali.p12
+distribution_identity.cer
+distribution
+lalali_distribution.mobileprovision
+lalali.mobileprovision
+sku_number.txt
+build
+.DS_Store
+lalali.tmproj

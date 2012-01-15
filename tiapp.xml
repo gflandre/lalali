@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>lalali</id>
+<name>lalali</name>
+<version>1.0</version>
+<publisher>Guillaume Flandre</publisher>
+<url>http://www.guillaumeflandre.com</url>
+<description>lalali is an easy-to-use translation app that let you remember the words you translated</description>
+<copyright>2010 by Guillaume Flandre</copyright>
+<icon>appicon.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>opaque</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+<guid>a68c2083-36b5-47d1-849b-64cadb45339f</guid>
+</ti:app>
