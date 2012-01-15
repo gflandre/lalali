@@ -1,6 +1,6 @@
 This is lalali, an iPhone app I made on December 2010.
 
-Here's the itunes description:
+Here's the iTunes description:
 
 -----------------------------------
 
