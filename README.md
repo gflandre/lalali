@@ -20,4 +20,5 @@ lalali:
 * Lets you remove translations off the listThe following languages are available: Afrikaans, Albanian, Arabic, Basque, Belarusian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Filipino, Finnish, French, Galician, German, Greek, Haitian Creole, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Latvian, Lithuanian, Macedonian, Malay, Maltese, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Thai, Turkish, Ukrainian, Vietnamese, Welsh, Yiddish
 
 If you have any question or comment, give me a shout on twitter : @gflandre
+
 Et voilà !
